@@ -1,1 +1,1 @@
-var a = "abcd"
+var a = "I love Mahadeva"
