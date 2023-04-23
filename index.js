@@ -1,1 +1,1 @@
-var b = "I love Mahadeva Namo Parvathi Pathiey Hara Hara Mahadeva"
+var b = "I love Mahadeva Namo "
